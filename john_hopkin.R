@@ -1,0 +1,1 @@
+browseVignettes("ggplot2")
